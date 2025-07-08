@@ -1,81 +1,79 @@
-# Jokenpo App (pt-br)
+# ✊🖐️✌️ Jokenpo App – Android & Kotlin
 
-Jokenpo App é um **Aplicativo Android** que visa **simular o jogo jokenpo (pedra, papel e tesoura)**.
 
-## Objetivo 
+<div align="center">
 
-**Criar uma solução digital para o jogo original jokenpo**, de modo que possa ser jogado em dispositivos android.
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-OS-green?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple?style=for-the-badge&logo=kotlin)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
-### 💻Tecnologia:
-* Android;
-* Kotlin;
-* Android SDK;
-* Arquitetura MVC;
-* UI/UX Concepts;
-* Material Design;
-* XML & Constraintlayout;
-* Gradle.
+</div>
 
-### 🛠️Ferramentas:
-* Git/Github;
-* Android Studio.
+---
 
-### ⏱️Metodologias Ágeis:
-• Kanban.
+## ✨ About this project
+Jokenpo App is a lightweight and intuitive Android application that brings the traditional **rock, paper, scissors game** to mobile devices.  
+It highlights:
 
-### Status: Completo
+- Native Android development skills using **Kotlin** and **Android SDK**  
+- Implementation of the **MVC architecture** for clear separation of concerns  
+- Use of **Material Design** principles for a smooth UI experience  
+- Responsive UI built with **ConstraintLayout** and XML  
+- Basic **UI/UX concepts** applied to enhance usability
 
-### Checkout on Playstore: 
+🚀 **Status:** Complete
 
-## Telas
+---
+
+## 📱 Screenshots
+
 <p align="center">
   <img src="./img/screen.png" width="250" height="500"/>
   <img src="./img/screen-1.png" width="250" height="500"/>
   <img src="./img/screen-2.png" width="250" height="500"/>
   <img src="./img/screen-3.png" width="250" height="500"/>
- </p>
- 
- Quer tirar sua ideia do papel e tranformar em um aplicativo? <a href="https://linktr.ee/Laura_Oliveira"> **Clique Aqui** </a>
--------------------------------------------------------------------------------------------------------------------------------------------
+</p>
 
-# Jokenpo App (en)
+---
+<!-- 
+## 📦 Download
 
-Jokenpo App is an **Android App** that focus on **simulate the jokenpo game (rock, paper, scissors)**.
+✅ **Available on Google Play Store:** *[Coming Soon]*
+-->
 
-To **create a digital solution for the original game**.
+## 🌍 Why this matters  
+This project demonstrates core competencies expected by European Android teams:  
+- Building native apps with clean, maintainable Kotlin code  
+- Applying Android architectural patterns (MVC)  
+- Crafting user-friendly interfaces with Material Design  
+- Delivering complete and functional apps ready for deployment
 
-## Goal
+---
 
-**Create a digital solution for the original jokenpo game**, so that it can be played on android devices.
+## 💻 Technology stack
 
-### 💻Technologies:
-* Android;
-* Kotlin;
-* Android SDK;
-* Arquitetura MVC;
-* UI/UX Concepts;
-* Material Design;
-* XML & Constraintlayout;
-* Gradle.
+- Android SDK & **Kotlin**  
+- **MVC Architecture**  
+- **Material Design**  
+- XML Layouts & ConstraintLayout  
+- Gradle build system
 
-### 🛠️Tools:
-* Git/Github;
-* Android Studio.
+---
 
-### ⏱️Agile Methodologies:
-* Kanban.
+## 🛠 Tools & Environment
 
-### Status: Complete
+- Android Studio  
+- Git & GitHub  
+- Agile methodology (**Kanban**)
 
-### Checkout on Playstore: 
+---
 
-## Screens
-<p align="center">
-  <img src="./img/screen.png" width="250" height="500"/>
-  <img src="./img/screen-1.png" width="250" height="500"/>
-  <img src="./img/screen-2.png" width="250" height="500"/>
-  <img src="./img/screen-3.png" width="250" height="500"/>
- </p>
+## 💡 Interested in building your own app?
 
-Do you want to build your mobile app? <a href="https://linktr.ee/Laura_Oliveira"> **Click Here** </a>
--------------------------------------------------------------------------------------------------------------------------------------------
+👉 [**Contact me via Linktree**](https://linktr.ee/Laura_Oliveira)  
+📩 Let’s create your next mobile solution together!
+
+---
+
+> ⭐ *Thank you for checking out the Jokenpo App! Looking forward to connecting!*  
