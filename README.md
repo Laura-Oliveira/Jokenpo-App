@@ -1,4 +1,4 @@
-# ✊🖐️✌️ Jokenpo App – Android & Kotlin
+# ✊🖐️✌️ Jokenpo App
 
 <div align="center">
   
